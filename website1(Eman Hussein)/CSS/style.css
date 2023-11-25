@@ -483,6 +483,7 @@ h3{
     width: 100px;
     height:40px;
     font-size:small;
+    background-color: wheat;
 } 
 .t1 button:hover{
     background-color:rgb(242, 73, 73);
